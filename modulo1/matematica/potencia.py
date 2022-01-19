@@ -1,7 +1,7 @@
-Print("Simulador de la potensia de un numero")
-Print("Digita el numero base: ")
+print("Simulador de la potensia de un numero")
+print("Digita el numero base: ")
 numero1 = int(input())
-Print("Digita el exponente: ")
+print("Digita el exponente: ")
 numero2 = int(input())
 resultado = numero1 ** numero2
-Print("La potencia de este numero es: {numero1}^{numero2} {resultado} ")
+print("La potencia de este numero es: ", resultado)
