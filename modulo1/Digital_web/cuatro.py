@@ -1,0 +1,6 @@
+print("Inicio de seccion en Facebook")
+print("Datos a ingresar")
+print("Correo electronico: ")
+correo= input()
+print("contraseña: ")
+contr= int(input())

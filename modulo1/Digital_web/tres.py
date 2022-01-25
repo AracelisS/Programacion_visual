@@ -1,0 +1,21 @@
+print("FACEBOOK Registro")
+print("Datos a ingresar: ")
+print("Nombre: ")
+nombre=input()
+print("Apellido: ")
+apellido=input()
+print("Email: ")
+correo=input()
+print("Fecha de cumpleaños: ")
+fecha=str(input())
+print("Sexo: ")
+sex= input()
+print("Contraseña: ")
+contr=int(input())
+print("Confirmacion de contraseña: ")
+confirm= int(input())
+
+if contr == confirm:
+  print("La contraseña es correcta, Ya estas registrado...")
+else:
+  print("La contraseña es incorrecta, Vuelve a intentarlo")
