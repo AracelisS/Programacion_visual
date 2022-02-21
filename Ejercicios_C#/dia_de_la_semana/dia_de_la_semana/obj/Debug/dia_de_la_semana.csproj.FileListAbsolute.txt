@@ -1,0 +1,9 @@
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\bin\Debug\dia_de_la_semana.exe.config
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\bin\Debug\dia_de_la_semana.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\bin\Debug\dia_de_la_semana.pdb
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.Form1.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.exe
+c:\users\estudiante\documents\visual studio 2013\Projects\dia_de_la_semana\dia_de_la_semana\obj\Debug\dia_de_la_semana.pdb
